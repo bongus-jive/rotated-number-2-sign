@@ -4,5 +4,5 @@
 		"diamondpickaxe"
   ],
   "output" : ["pat_rotatednumber2", 1],
-  "groups" : [ "craftingfarm2", "hunting" ]
+  "groups" : [ "craftingfarm2", "farming" ]
 }
