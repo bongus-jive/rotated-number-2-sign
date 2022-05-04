@@ -1,0 +1,31 @@
+{
+  "objectName" : "pat_rotatednumber2",
+  "colonyTags" : ["outpost"],
+  "rarity" : "Uncommon",
+  "description" : "Rotated two marker.",
+  "shortdescription" : "Rotated Two",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+  "price" : 20,
+
+  "apexDescription" : "Two.",
+  "avianDescription" : "Two.",
+  "floranDescription" : "Sssnakey two.",
+  "glitchDescription" : "Neutral. Two.",
+  "humanDescription" : "A number two. Hehe.",
+  "hylotlDescription" : "Two.",
+  "novakidDescription" : "A two.",
+
+  "inventoryIcon" : "rotatednumber2.png",
+  "orientations" : [
+    {
+      "image" : "rotatednumber2.png",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}
